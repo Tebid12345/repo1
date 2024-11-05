@@ -1,3 +1,16 @@
 Git Revert commit 2
 
 This is sample File 1
+
+Merge Branches in Git:
+Lets say we have two branches the Main and the Dev and we have made changes in the dev branch and want to push these changes to he Main branch.
+We will have to following the steps below
+
+-  Switch to the dev branch and make your  changes. After making the changes, you must add and commit the changes
+   git add ., git commit -m "message",)
+   - Switch to the main branch and run the pull command (git pull)
+   - Run the merge command by providing the branch you are merging from e.g dev ( git merge dev)
+   - Execute the add command ( git add .
+   - execute the status command ( git status)
+   - execute the commit command (git commit. Do not specify any message)
+   - run the push command (git push)
