@@ -15,3 +15,4 @@ We will have to following the steps below
    - execute the commit command (git commit. Do not specify any message)
    - run the push command (git push)
 This is stash lecture, Change in file 1
+This is stash lecture, Change for untracked files in file 1
