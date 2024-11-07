@@ -1,0 +1,4 @@
+Merge Branches in Git:
+Lets say we have two branches the Main and the Dev and we have made changes in the
+ dev branch and want to push these changes to he Main branch.
+ We will have to following the steps below
