@@ -11,3 +11,9 @@ We will have to following the steps below
    - Switch to the main branch and run the pull command (git pull)
    - Run the merge command by providing the branch you are merging from e.g dev ( git merge dev)
    
+   - Execute the add command ( git add .
+   - execute the status command ( git status)
+   - execute the commit command (git commit. Do not specify any message)
+   - run the push command (git push)
+This is stash lecture, Change in file 1
+
