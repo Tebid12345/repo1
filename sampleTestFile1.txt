@@ -9,13 +9,21 @@ We will have to following the steps below
 -  Switch to the dev branch and make your  changes. After making the changes, you must add and commit the changes
    git add ., git commit -m "message",)
    - Switch to the main branch and run the pull command (git pull)
+<<<<<<< HEAD
    - Run the merge command by providing the branch you are merging from e.g dev ( git merge dev
+=======
+   - Run the merge command by providing the branch you are merging from e.g dev ( git merge dev)
+   
+>>>>>>> 358d6708207185213014a559bb26ec2d8b65cc20
    - Execute the add command ( git add .
    - execute the status command ( git status)
    - execute the commit command (git commit. Do not specify any message)
    - run the push command (git push)
 This is stash lecture, Change in file 1
+<<<<<<< HEAD
 This is stash lecture, Change for untracked files in file 1
 
    
+=======
+>>>>>>> 358d6708207185213014a559bb26ec2d8b65cc20
 
