@@ -1,0 +1,32 @@
+To push changes from your local branch dev to the remote branch dev, follow these steps:
+
+Ensure you are on the correct local branch:
+First, check that you are on your local dev branch. You can switch to it if needed:
+bash
+
+Copy
+git checkout dev
+Commit your changes:
+If you have uncommitted changes, stage and commit them:
+bash
+
+Copy
+git add .
+git commit -m "Your commit message"
+Push your changes to the remote branch:
+Use the following command to push your local dev branch to the remote dev branch:
+bash
+
+Copy
+git push origin dev
+Summary of Commands:
+bash
+
+Copy
+git checkout dev
+git add .
+git commit -m "Your commit message"
+git push origin dev
+Notes:
+Ensure that your local dev branch is up to date with the remote branch before pushing. You can do this by running git pull origin dev to fetch and merge any changes from the remote branch into your local branch.
+If there are any conflicts during the pull, resolve them before proceeding to push your changes.
