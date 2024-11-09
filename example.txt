@@ -1,1 +1,2 @@
-This is my first information in the feature branch
+
+this information has been modified in the main branch
