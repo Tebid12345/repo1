@@ -1,4 +1,0 @@
-Git Revert change 1
-
-This sample file two
-This is stash lecture, Change in file 2

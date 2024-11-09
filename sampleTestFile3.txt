@@ -1,2 +1,0 @@
-This sample file three
-This is stash lecture, Change for untracked files in file 1
