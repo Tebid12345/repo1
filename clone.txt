@@ -1,0 +1,5 @@
+how to clone a branch repository in git to your local repository
+- git clone -b <branch-name> <repo url>
+How to push changes to a branch repository
+- git push -u origin <branch-name>
+
